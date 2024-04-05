@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Blog](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)]([htt](https://judge.beecrowd.com/pt/problems/index/1?page=2))
+[![Blog](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://www.youtube.com/watch?v=cRoBt6AZgjc)
