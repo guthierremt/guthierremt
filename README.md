@@ -1,5 +1,4 @@
-### Hi 👋
-### My name is Guthierre ![image](https://github.com/guthierremt/guthierremt/assets/92392933/8d4d4058-23fb-43e7-93f6-90e215e544f5)
+### Hi my name is Guthierre ![image](https://github.com/guthierremt/guthierremt/assets/92392933/8d4d4058-23fb-43e7-93f6-90e215e544f5)
 
 
 
