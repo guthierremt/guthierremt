@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=25&duration=3000&pause=1000&background=FFFFFF00&random=false&width=435&lines=Hi+my+name+is+Guthierre)](https://git.io/typing-svg) ![image](https://github.com/guthierremt/guthierremt/assets/92392933/8d4d4058-23fb-43e7-93f6-90e215e544f5)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=25&duration=3000&pause=1000&background=FFFFFF00&random=false&width=435&lines=Hi+my+name+is+Guthierre)](https://git.io/typing-svg) (https://github.com/guthierremt/guthierremt/assets/92392933/8d4d4058-23fb-43e7-93f6-90e215e544f5)
 
 
 
