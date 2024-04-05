@@ -8,3 +8,5 @@
 
 
 ![Guthierre GitHub stats](https://github-readme-stats.vercel.app/api?username=guthierremt&show_icons=true&theme=radical)
+
+## Tecnologias 
