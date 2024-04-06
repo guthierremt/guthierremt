@@ -9,7 +9,7 @@
 
 ![Guthierre GitHub stats](https://github-readme-stats.vercel.app/api?username=guthierremt&show_icons=true&theme=radical)
 
-## <p style="text-align:center;">Seu texto centralizado aqui.</p>
+## Tecnologias
 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python&perline=3)]()
