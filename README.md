@@ -11,11 +11,8 @@
 
 ## Tecnologias - Ferramentas
 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python,java,mysql,mongodb,postman,git,flask&perline=3)]()
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python,java,mysql,mongodb,postman,git,flask" />
   </a>
 </p>
