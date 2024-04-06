@@ -11,7 +11,7 @@
 
 ## Tecnologias - Ferramentas
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,python,java,mysql,mongodb,postman,git,flask" />
   </a>
