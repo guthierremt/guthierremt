@@ -12,4 +12,4 @@
 ## Tecnologias - Ferramentas
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python&perline=3)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,java,python,nodejs&perline=3)]()
